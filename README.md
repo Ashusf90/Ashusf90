@@ -161,3 +161,9 @@ Whether it's software engineering, backend architecture, open source, or Generat
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:111827,100:263449&text=Keep%20Building.%20Keep%20Learning.&fontSize=20&fontColor=FFFFFF" width="100%" />
 
 </div>
+
+
+## Contribution Activity
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Ashusf90/Ashusf90/output/github-contribution-grid-snake.svg)
+
