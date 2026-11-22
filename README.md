@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Harshit Gupta**, a Computer Science and Engineering student specializing in Artificial Intelligence, graduating in 2027.
 
@@ -32,12 +32,12 @@ I'm passionate about software engineering, backend architecture, distributed sys
 
 My work spans full-stack development, backend engineering, retrieval-augmented generation, and agentic AI workflows.
 
-- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence), 2027
-- 💻 Focused on Software Engineering, Backend Development, and Generative AI
-- 🤖 Building RAG-powered applications and agentic workflows
-- 🌐 Interested in distributed systems, system design, and scalable architectures
-- 🔓 Active in open-source development and collaborative engineering
-- 🧩 Enjoy solving Data Structures and Algorithms problems
+-  B.Tech in Computer Science & Engineering (Artificial Intelligence), 2027
+-  Focused on Software Engineering, Backend Development, and Generative AI
+-  Building RAG-powered applications and agentic workflows
+-  Interested in distributed systems, system design, and scalable architectures
+-  Active in open-source development and collaborative engineering
+-  Enjoy solving Data Structures and Algorithms problems
 
 ---
 
@@ -97,7 +97,7 @@ My work spans full-stack development, backend engineering, retrieval-augmented g
 
 <br/><br/>
 
-### 🔥 All-Time Contributions & Streaks
+###  All-Time Contributions & Streaks
 
 <img width="85%" src="https://streak-stats.demolab.com/?user=Ashusf90&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&stroke=263449&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" />
 
@@ -111,7 +111,7 @@ My work spans full-stack development, backend engineering, retrieval-augmented g
 
 ---
 
-## 🏆 Open Source & Problem Solving
+##  Open Source & Problem Solving
 
 I enjoy contributing to open-source projects, exploring existing codebases, reviewing implementations, and improving software through collaborative development.
 
@@ -123,14 +123,10 @@ I enjoy contributing to open-source projects, exploring existing codebases, revi
 
 </div>
 
-- 49 merged open-source pull requests
-- 360+ LeetCode problems solved
-- GeeksforGeeks Institute Rank 79
-- LeetCode 365-day and 200-day badges
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Designing reliable backend systems and distributed architectures.
 - Improving RAG pipelines through hybrid retrieval and reranking.
@@ -140,7 +136,7 @@ I enjoy contributing to open-source projects, exploring existing codebases, revi
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in connecting with developers, engineers, and people building interesting products.
 
