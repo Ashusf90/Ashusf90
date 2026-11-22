@@ -163,7 +163,4 @@ Whether it's software engineering, backend architecture, open source, or Generat
 </div>
 
 
-## Contribution Activity
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Ashusf90/Ashusf90/output/github-contribution-grid-snake.svg)
 
