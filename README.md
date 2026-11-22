@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+ <!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
@@ -7,13 +7,13 @@
 <br/>
 
 <a href="https://github.com/Ashusf90">
-  <img src="https://img.shields.io/badge/GitHub-Ashusf90-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Ashusf90-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -24,7 +24,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm **Harshit Gupta**, a Computer Science and Engineering student specializing in Artificial Intelligence, graduating in 2027.
 
@@ -41,7 +41,7 @@ My work spans full-stack development, backend engineering, retrieval-augmented g
 
 ---
 
-## Technical Skills
+## ⚡ Technical Skills
 
 ### Programming Languages
 
@@ -83,23 +83,35 @@ My work spans full-stack development, backend engineering, retrieval-augmented g
 
 ---
 
-## GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashusf90&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
+### Overall GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashusf90&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashusf90&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Ashusf90&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" />
+### 🔥 All-Time Contributions & Streaks
+
+<img width="85%" src="https://streak-stats.demolab.com/?user=Ashusf90&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&stroke=263449&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" />
+
+<br/><br/>
+
+### Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashusf90&bg_color=0D1117&color=C9D1D9&line=60A5FA&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## Open Source and Problem Solving
+## 🏆 Open Source & Problem Solving
 
 I enjoy contributing to open-source projects, exploring existing codebases, reviewing implementations, and improving software through collaborative development.
 
@@ -118,17 +130,7 @@ I enjoy contributing to open-source projects, exploring existing codebases, revi
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashusf90&bg_color=0D1117&color=C9D1D9&line=60A5FA&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## What I'm Currently Exploring
+## 🎯 Current Focus
 
 - Designing reliable backend systems and distributed architectures.
 - Improving RAG pipelines through hybrid retrieval and reranking.
@@ -138,7 +140,7 @@ I enjoy contributing to open-source projects, exploring existing codebases, revi
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, engineers, and people building interesting products.
 
